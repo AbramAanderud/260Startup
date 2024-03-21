@@ -1,7 +1,7 @@
 # Startup Specifications
 
 ### Elevator pitch
-Have you ever been craving a new book but have no idea where to start. Or have you ever finished a book and been filled with the empty void of needing more. Now you can connect with others that have solved this problem! Find books currated to you based on what you have already read and what others similar to you have enjoyed. 
+- Have you ever been craving a new book but have no idea where to start. Or have you ever finished a book and been filled with the empty void of needing more. Now you can connect with others that have solved this problem! Find books currated to you based on what you have already read and what others similar to you have enjoyed. 
 
 ## HTML
 - Three html pages, one for trending books, one for user profile / your book list, and one for your recommendations.
